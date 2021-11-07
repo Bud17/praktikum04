@@ -1,0 +1,51 @@
+* {
+  margin: 20px;
+  padding-right: 40px;
+}
+
+body {
+  background-color: black;
+  min-height: 100vh;
+}
+
+table, td {
+  border: 1px solid black;
+}
+
+.bagianatas {
+}
+
+.profile .image .foto-saya {
+  display: block;
+  margin-left: 10px;
+  margin-right: auto;
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+}
+
+.profile .profile-name {
+  vertical-align: text-top;
+  padding-left: 10px;
+  padding-right: 10px;
+  color:white;
+}
+
+.categories {
+  vertical-align: text-top;
+  color: white;
+  text-align: right;
+}
+
+.iscategories {
+  text-decoration:underline;
+  font-size: large;
+}
+
+.quotes {
+   colspan: 3;
+}
+
+.isquotes {
+	color: white;
+}
